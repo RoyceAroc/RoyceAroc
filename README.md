@@ -1,1 +1,1 @@
-![Royce Braden Banner](http://www.roydero.com/images/Profile.jpg)
+![Royce Braden Banner](http://www.roydero.com/images/Profile.PNG)
