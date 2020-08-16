@@ -1,1 +1,1 @@
-![Royce Braden Banner](./Profile.jpg)
+![Royce Braden Banner](Profile.jpg)
