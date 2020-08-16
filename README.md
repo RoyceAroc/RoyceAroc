@@ -1,1 +1,1 @@
-![Royce Braden Banner](smtg)
+![Royce Braden Banner](./Profile.jpg)
