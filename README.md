@@ -1,1 +1,1 @@
-![Royce Braden Banner](https://roydero.com/banner.png)
+![Royce Braden Banner](https://roydero.com/images/banner.png)
