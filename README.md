@@ -1,6 +1,6 @@
 ![Banner](https://roycearoc.github.io/Personal-Website/images/banner.png)
 ## About Me!
-I'm a 16 year old frontend and backend software engineer, competitive programmer, and a mobile application developer. I work with the most up-to-date technologies and frameworks. 
+I'm an 18 year old frontend and backend software engineer, competitive programmer, and a mobile application developer. I work with the most up-to-date technologies and frameworks. 
 
 > I'm fluent in the following languages: C++, Java, Python, NodeJs, Go, R, Swift, PHP, HTML, CSS, JS, and a little bit of Ruby. 
 
