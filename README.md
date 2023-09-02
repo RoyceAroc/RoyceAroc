@@ -1,13 +1,15 @@
 ![Banner](https://roycearoc.github.io/Personal-Website/images/banner.png)
 ## About Me!
-I'm an 18 year old frontend and backend software engineer, competitive programmer, and a mobile application developer. I work with the most up-to-date technologies and frameworks. 
+I'm a data scientist, software developer, and machine learning researcher. I work with the most up-to-date technologies and frameworks. 
 
-> I'm fluent in the following languages: C++, Java, Python, NodeJs, Go, R, Swift, PHP, HTML, CSS, JS, and a little bit of Ruby. 
+> Languages: Java, Python, C/C++, SQL, HTML/CSS/JavaScript, Kotlin, PHP, Bash, C#, Swift, Go, TypeScript, MATLAB
+> Technologies: React, Angular, TensorFlow, Node.js, Docker, SSH, Express, Flask, .NET, Flutter, Bootstrap, Material UI
+> Tools: Git, AWS, Google Cloud, Azure, Firebase, Neo4j, Android Studio, Visual Studio, IntelliJ IDEA, PyCharm, Pulumi
 
 Contact me for my resume! I'm open to any part-time jobs :)
 
 ## Let's Connect!
 Discord: Royce#2139  
-Email: royceaden@gmail.com  
-Instagram: @royce.a1  
-LinkedIn: [https://www.linkedin.com/in/roycea1/](https://www.linkedin.com/in/roycea1/)
+Email: royceaden@gmail.com 
+Personal Website: [https://www.roydero.com](roydero.com) roydero.com
+LinkedIn: [https://www.linkedin.com/in/roycea1/](linkedin.com/in/roycea1)
