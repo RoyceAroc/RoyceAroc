@@ -6,10 +6,10 @@ I'm a data scientist, software developer, and machine learning researcher. I wor
 > Technologies: React, Angular, TensorFlow, Node.js, Docker, SSH, Express, Flask, .NET, Flutter, Bootstrap, Material UI
 > Tools: Git, AWS, Google Cloud, Azure, Firebase, Neo4j, Android Studio, Visual Studio, IntelliJ IDEA, PyCharm, Pulumi
 
-Contact me for my resume! I'm open to any part-time jobs :)
+Resume: https://roydero.com/Resume.pdf
 
 ## Let's Connect!
 Discord: Royce#2139  
-Email: royceaden@gmail.com 
-Personal Website: [https://www.roydero.com](roydero.com) roydero.com
-LinkedIn: [https://www.linkedin.com/in/roycea1/](linkedin.com/in/roycea1)
+Email: [royceaden@gmail.com](mailto:royceaden@gmail.com)
+Personal Website: [roydero.com](https://www.roydero.com) 
+LinkedIn: [linkedin.com/in/roycea1](https://www.linkedin.com/in/roycea1/)
