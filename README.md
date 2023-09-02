@@ -12,6 +12,6 @@ Resume: [Download Resume](https://roydero.com/Resume.pdf)
 
 ## Let's Connect!
 Discord: Royce#2139  
-Email: [royceaden@gmail.com](mailto:royceaden@gmail.com)
-Personal Website: [roydero.com](https://www.roydero.com) 
-LinkedIn: [linkedin.com/in/roycea1](https://www.linkedin.com/in/roycea1/)
+Email: [royceaden@gmail.com](mailto:royceaden@gmail.com)  
+Personal Website: [roydero.com](https://www.roydero.com)  
+LinkedIn: [linkedin.com/in/roycea1](https://www.linkedin.com/in/roycea1/)  
