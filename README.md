@@ -8,8 +8,6 @@ I'm a data scientist, software developer, and machine learning researcher. I wor
 
 > Tools: Git, AWS, Google Cloud, Azure, Firebase, Neo4j, Android Studio, Visual Studio, IntelliJ IDEA, PyCharm, Pulumi
 
-Resume: [Download Resume](https://roydero.com/Resume.pdf) 
-
 ## Let's Connect!
 Discord: Royce#2139  
 Email: [royceaden@gmail.com](mailto:royceaden@gmail.com)  
