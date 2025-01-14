@@ -1,4 +1,3 @@
-![Banner](https://roycearoc.github.io/Personal-Website/images/banner.png)
 ## About Me!
 I'm a data scientist, software developer, and machine learning researcher. I work with the most up-to-date technologies and frameworks. 
 
